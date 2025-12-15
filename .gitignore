@@ -1,0 +1,38 @@
+# Environment & Secrets
+.env
+.env.*
+*.env
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project outputs
+outputs/
+*.xlsx
+*.csv
+
+# Logs
+*.log
+
+# Test & coverage
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
